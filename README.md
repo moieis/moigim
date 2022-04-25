@@ -13,6 +13,7 @@ ________Guess Numbers Game by moigim  :_________
 | int23 | It can be used for any demanding project |    time |
 
 
+<h1><\h1>
 - ### You must have jupyter Notebook in order to run the script
 - ### There are two fundamentally different rules of the game :
     - The first script inside the notebook is run in the same Python kernel .
