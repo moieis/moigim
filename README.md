@@ -13,9 +13,9 @@ ________Guess Numbers Game by moigim  :_________
 | int23 | It can be used for any demanding project |    time |
 
 
-- ### Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
+- ### You must have jupyter Notebook in order to run the script
+- ### There are two fundamentally different rules of the game :
+    - The first script inside the notebook is run in the same Python kernel .
+    - The second script contains several offices, including pywebio, and runs and goes to the web application and plays there with the graphics .
+- ### When you open the jupter page, you will find all the information you need
 
