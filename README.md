@@ -26,6 +26,7 @@ _______
 
 ___In case of any problem, feel free to message me____
 
-## All my social media accounts [--> MoiEis <--](znap.link/MoiCbio).
+
+## All my social media accounts [--> MoiEis <--](https://znap.link/MoiCbio?fbclid=IwAR3Cae_tWEHEW1kdoOJBrpd1GDw-KXh35fUKugE6SuddErOY23ZzszsSSEc).
 
 
