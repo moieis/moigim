@@ -21,6 +21,7 @@ _______
 - ### There are two fundamentally different rules of the game :
     - The first script inside the notebook is run in the same Python kernel .
     - The second script contains several offices, including pywebio, and runs and goes to the web application and plays there with the graphics .
+    - 
 - ### When you open the jupter page, you will find all the information you need
 
 
