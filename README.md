@@ -26,6 +26,6 @@ _______
 
 ___In case of any problem, feel free to message me____
 
-All my social media accounts [## MoiEis](https://duckduckgo.com "The best search engine for privacy").
+## All my social media accounts [--> MoiEis <--](znap.link/MoiCbio").
 
 
