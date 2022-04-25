@@ -23,3 +23,9 @@ _______
     - The second script contains several offices, including pywebio, and runs and goes to the web application and plays there with the graphics .
 - ### When you open the jupter page, you will find all the information you need
 
+
+___In case of any problem, feel free to message me____
+
+All my social media accounts [## MoiEis](https://duckduckgo.com "The best search engine for privacy").
+
+
