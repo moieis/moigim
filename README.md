@@ -1,7 +1,7 @@
 # moigim
 
 
-________Guess Numbers Game by moigim !_________
+________Guess Numbers Game by moigim  : _________
 
 
 
