@@ -1,6 +1,6 @@
 # moigim pyweb python
 
-________3 GAME IN ONE WEB BY MOIGAME   : _________
+________3 GAME IN ONE WEB BY MOIGAME   :_________
 
 | REQ   |      W     |  
 |----------|:-------------:|
