@@ -1,4 +1,39 @@
-# moigim
+# moigim pyweb python
+
+________3 GAME IN ONE WEB BY MOIGAME   :_________
+
+| REQ   |      W     |  
+|----------|:-------------:|
+| Pywebio |  Sample Framework for To You  | 
+| random|    on py req  |
+| Pywebio.pin | for auto select the var | 
+
+
+
+- ### You have to run this on test server 
+- ### or you can run it on this url for testing [--> Run RowMoiGim <--](https://znap.link/MoiCbio?fbclid=IwAR3Cae_tWEHEW1kdoOJBrpd1GDw-KXh35fUKugE6SuddErOY23ZzszsSSEc)
+-   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# moigim jupiter python
 
 
 ________Guess Numbers Game by moigim  :_________
