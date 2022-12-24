@@ -11,7 +11,7 @@ ________3 GAME IN ONE WEB BY MOIGAME   :_________
 
 
 - ### You have to run this on test server 
-- ### or you can run it on this url for testing [--> Run RowMoiGim <--](https://znap.link/MoiCbio?fbclid=IwAR3Cae_tWEHEW1kdoOJBrpd1GDw-KXh35fUKugE6SuddErOY23ZzszsSSEc)
+- ### or you can run it on this url for testing [--> Run RowMoiGim Demo <--](https://moigim.onrender.com/)
 -   
 
 
