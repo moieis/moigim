@@ -44,12 +44,7 @@ ________Guess Numbers Game by moigim  :_________
 
 
 
-    |      about    |  Requirements |
-    |:-------------:|        ------:|
- |  Insert greater than and less than to find the desired value | pywebio |
-  |    CSS-HTML  |    |
- | It can be used for any demanding project |    time |
-
+   
 
 
 | about   |      Requirements    |  
