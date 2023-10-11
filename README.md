@@ -47,10 +47,16 @@ ________Guess Numbers Game by moigim  :_________
     |      about    |  Requirements |
     |:-------------:|        ------:|
  |  Insert greater than and less than to find the desired value | pywebio |
-  |    Game fixed of all problems  |   random |
+  |    CSS-HTML  |    |
  | It can be used for any demanding project |    time |
 
 
+
+| about   |      Requirements    |  
+|----------|:-------------:|
+| Insert greater than and less than to find the desired value | pywebio |  
+| Css-Html |   moidata   |
+| It can be used for any circle test on PyWebIO  | EnvVar | 
 
 _______
 
