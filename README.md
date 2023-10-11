@@ -2,7 +2,7 @@
 
 ________3 GAME IN ONE WEB BY MOIGAME   :_________
 
-| REQ   |      W     |  
+| FUNC  |      W     |  
 |----------|:-------------:|
 | Pywebio |  Sample Framework for To You  | 
 | random|    on py req  |
